@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="about">The Dice Roller application was created as a simulator for dice rolling.  At the top of the application you will notice three buttons that are labeled D6 D4 and D20. These are the different sided dice you have to choose from.  Once you have chosen a die you can roll that die by selecting the button below. An image will appear showing you what number you have rolled as well as indicator text below.</string>
+</resources>
